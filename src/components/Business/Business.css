@@ -32,6 +32,16 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  text-align: left;
+}
+
+.Business-address a {
+  text-decoration: none;
+  
+}
+
+.Business-address a:hover {
+  font-weight: 900;
 }
 
 .Business-reviews {
